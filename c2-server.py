@@ -329,4 +329,3 @@ while True:
 # =================================================================
     else:
         print("\033[33m[-] Command does not exist, enter help to show list of commands\033[0m")
-        socket.close()
