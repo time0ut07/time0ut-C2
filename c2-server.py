@@ -131,7 +131,7 @@ print("\033[36m[*] Setting up server...\033[0m")
 # =================================================================
 
 connected_sockets = {}
-# {'vikshjoy': {'hostname': 'time0ut', 'publicIP': '42.60.160.43', 'remoteIP': '127.0.0.1', 'remotePort': 3812, 'socket': <socket.socket fd=572, family=2, type=1, proto=0, laddr=('127.0.0.1', 1337), raddr=('127.0.0.1', 3812)>}}
+# {'vikshjoy': {'hostname': 'time0ut', 'publicIP': '60.60.60.43', 'remoteIP': '127.0.0.1', 'remotePort': 3812, 'socket': <socket.socket fd=572, family=2, type=1, proto=0, laddr=('127.0.0.1', 1337), raddr=('127.0.0.1', 3812)>}}
 client = ''
 while True:
 
