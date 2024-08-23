@@ -6,6 +6,8 @@
 
 This is not completed at all... plan to add more features and hopefully cook up an agent
 
+p.s. I have developed a new C2 framework: Bamboo, for my Final Year Project with my teammates. Probably not going to touch this for a while/gonna change the entire code.
+
 
 ## Info
 
